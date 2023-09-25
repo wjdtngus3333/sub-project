@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SubProjectApplication {
 
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("hello world ㅎㅎㅎ");
         SpringApplication.run(SubProjectApplication.class, args);
     }
 
